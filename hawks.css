@@ -7,13 +7,11 @@ html{
 	border:solid 1.7px #000000;
 
 	}
-div{
-	border:5px 10px;
-}
+
 li{
 	font-family:Times new Roman;
-	font-size:145%;
-	line-height:148%;
+	font-size:121%;
+	line-height:121%;
 	
 	
 }
@@ -21,7 +19,7 @@ h1{
 font-family:Arial;
 font-style:normal;
 font-variant:small-caps;
-font-size:200%;
+font-size:170%;
 background-color:darkseagreen;
 text-align:center;
 background-position:center;
@@ -31,8 +29,8 @@ h4{
 font-variant:small-caps;
 	font-family:helvetica;
 	background:darkseagreen;
-	font-size:150%;
-	line-height:121%;
+	font-size:130%;
+	line-height:112%;
 	text-align:center;
 	background-position:center;
 	display:block;
@@ -44,20 +42,20 @@ font-variant:small-caps;
 
 p{
 	font-family:Times New Roman, Times;
-	font-size:150%;
-	text-height:141%;
+	font-size:130%;
+	text-height:121%;
 	white-space:normal;
 }
 em{
 	display:none;
 	font-family:Times New Roman, Times;
-	font-size:150%;
+	font-size:130%;
 	margin-left:46%;
 	margin-right:21%;
 }
 b{
 	font-family:Helvetica;
-	font-size:127%;
+	font-size:118%;
 	text-transform:Uppercase;
 }
 figure{
