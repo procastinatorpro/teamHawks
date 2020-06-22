@@ -1,7 +1,5 @@
 html{
 	background-color:honeydew;
-	margin-left:12px;
-	margin-right:12px;
 	margin-top:5px;
 	margin-bottom:5px;
 	border:solid 1.7px #000000;
@@ -68,7 +66,7 @@ footer{
 	background-color:darkseagreen;
 }
 button{
-	margin-left:47%;
+	margin-left:50%;
 	margin-right:50%;
 	font-variant:normal;
 	
