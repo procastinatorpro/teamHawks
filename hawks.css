@@ -7,7 +7,7 @@ html{
 li{
 	font-family:Times new Roman;
 	font-size:114%;
-	line-height:107%;
+	
 	
 	
 }
@@ -25,10 +25,7 @@ h4{
 	font-family:helvetica;
 	background:darkseagreen;
 	font-size:115%;
-	line-height:103%;
-	text-align:center;
-	background-position:center;
-	display:block;
+        text-align:center;
 	border:solid 1.5px black;
 	
 	
@@ -37,15 +34,9 @@ h4{
 p{
 	font-family:Times New Roman, Times;
 	font-size:113%;
-	text-height:102%;
-	white-space:normal;
-}
-em{
-	display:none;
-	font-family:Times New Roman, Times;
-	font-size:150%;
 	
 }
+
 b{
 	font-family:Helvetica;
 	font-size:117%;
