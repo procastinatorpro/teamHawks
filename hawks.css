@@ -1,15 +1,13 @@
 html{
 	background-color:honeydew;
-	margin-top:5px;
-	margin-bottom:5px;
 	border:solid 1.7px #000000;
 
 	}
 
 li{
 	font-family:Times new Roman;
-	font-size:112%;
-	line-height:111%;
+	font-size:114%;
+	line-height:107%;
 	
 	
 }
@@ -17,39 +15,36 @@ h1{
 font-family:Arial;
 font-style:normal;
 font-variant:small-caps;
-font-size:112%;
+font-size:115%;
 background-color:darkseagreen;
 text-align:center;
-background-position:center;
 border:solid 2px black;
 }
 h4{
-font-variant:small-caps;
+    font-variant:small-caps;
 	font-family:helvetica;
 	background:darkseagreen;
-	font-size:112%;
-	line-height:102%;
+	font-size:115%;
+	line-height:103%;
 	text-align:center;
 	background-position:center;
 	display:block;
 	border:solid 1.5px black;
-	padding-top:2.1px;
-	padding-bottom:2.1px;
+	
 	
 }
 
 p{
 	font-family:Times New Roman, Times;
-	font-size:114%;
-	text-height:107%;
+	font-size:113%;
+	text-height:102%;
 	white-space:normal;
 }
 em{
 	display:none;
 	font-family:Times New Roman, Times;
-	font-size:115%;
-	margin-left:46%;
-	margin-right:21%;
+	font-size:150%;
+	
 }
 b{
 	font-family:Helvetica;
@@ -66,11 +61,10 @@ footer{
 	background-color:darkseagreen;
 }
 button{
-	margin-left:50%;
+	margin-left:47%;
 	margin-right:50%;
 	font-variant:normal;
-	
-	font-size:121%;
+	font-size:112%;
 	text-align:center;
 	font-family:Times New Roman;
 	border:1px solid #000000;
